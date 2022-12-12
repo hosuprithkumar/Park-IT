@@ -1,0 +1,62 @@
+.App{
+    
+}
+.card-container{
+    width: 300px;
+    flex-wrap: wrap;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.2s;
+    animation: ease-in;
+    margin: 3rem;
+    
+}
+
+
+.card-container:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+
+.image-container img{
+    overflow: hidden;
+    height: 250px;
+}
+
+.card-content{
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+    display: grid;
+}
+
+h3,p{
+    margin:0;
+    padding:0;
+    color:white;
+}
+
+.card-title{
+    margin-bottom: 0.5rem;
+}
+
+.card-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.card-btn button{
+    padding: 0.5rem;
+    background-color: black;
+    border: none;
+    transition:0.2s;
+    color: white;
+
+}
+
+.card-btn button :hover{
+    background-color: rgba(27, 156, 252, 0.1);
+ }
+
+.col-mid-3{
+    flex-wrap: wrap;
+}

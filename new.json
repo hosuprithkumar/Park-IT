@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "videolabeling-370619",
+  "private_key_id": "2e20fd10081e1e83f6d2bacd5239a205ea0244a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbJXxiToBYUEkZ\nga1B4w/mD5OvPWyvIVNse2liESh+ief1rvyZOIYKsRRJ6ocULCEaScKgmF03dVLK\nvbJzh8GeO6LqT+GzwB3ZOxwmuW/Xk+Gz4xuyRs7TSqmUVAlHaQzXhHw6uRVftSiM\nB2I5kVhPU1MOOvU2F7u2Bx/t2cvOxxfwMx8FdSno5DATbB9eDA6Xx0QX3VHkRcZw\nCJRM5jtn90A5KWoxnB8yJE7+1fcpmQi7OnioBCgIerA9SdouS698F2vZgf5j9UUz\nKwHn6kFj5z6ifmnqCIPxIiA49x37HhAo1Ifvrv2WPqI9EhfZrorLZMe6i+Sd9bMR\nidGwSPGLAgMBAAECggEAEW+fuwH3ip/7QdKWa4Ez7YxynI8wAmlMZt9icz2vv141\no3bht0E9pJX3dxcpzH/pIyXcVGV16csAXaipat0m9WbeYwGh7AGmA8k7hglGeIPg\n1HFW+4IvBwVXvu5y3IOsiHbAlMOYPgQDZTlZ4KkPs6/kSwUf6c8LruQTbTe89VAI\npQ/VYmmNTzdzSjbYUyQFiDbtNgTU5PushOkAaTXKxWntZDm6hvx7AQe0amwFqpqJ\nryenyNRsVRLM0R793CE2IvDGezHgPTjSQ/CU9/n3a0128Ag7Yb93luy4cJc5/4GH\neUvcW9CjE37eZplxr3kNSYKM6sWc1miQzfoyypvngQKBgQDHh8dxweYCqOrkEzFk\npoHPsw5XFKcJ/AzO+O7JfJpMCfpNsMw9OMGlNFckbAsshybNNKZVay/CAFHS1d5N\n7FuPJ3vb775qc1Q6ytve43ba3mydcQ7XjaRI+Olzr8LHOVg/EHp5n6LUfO9r4+Gq\n49bJCzfThYucPXkA1KSNrrwdVwKBgQDHDgjhdgSBCU8JlFxhBScj9bbiLoSvX/Qk\nHqvd1IesDtscrTDqNoY/gAZB20H7tqUPoEyHIwJggugaoEo3V0nEnKmxmw+N2qAh\nsQ/M5GsUZ0djjQn2HYs0cdyQ0s8gw8grXcAvabu/Suv4zMZKK8irO0TUOwfNzF8o\nF88t9wd47QKBgQCgc1p56v+osec5gwmcM519xTJJ6mysxcgTA/EZi56UeQ2UPhDv\nRl3KGL3epxeRNhmIuMbtN6WO7yzdS2hZ5zB1fL3IThEkjxtzr7+BjA7+0BAtx0W1\nJsyudaNdiUArbry88eZbOXj6QIFTlEvbXR5SSzgYW3K6MGDGvziYSqQxPwKBgHQk\nlTvwH3qm0s4VGb2mQwsxUG8yk0q8ovf8SW2alzrmRCS8TQErpTMh4QTGCP70t+Sh\nNGXZIIbter4mbodR0AH/Iug1QGMVgD+IT17OnEgAZuAIKBrJbDLCiN6bki1c7suW\n3Q8NE3XvIjY+TShz2ZdHcsaeVtRWfeMn2UPJkjuVAoGAaIk70HZnGghF1UBotLoH\n8EuMJCJF7Y2vJMTjaI95plf5JCiAKKK6llnlMDpmJOUAUqCI4b+3hvbwsfHKpaiX\nWLfvm5gaIfCwmMyRa9D5PctBzCxnoTODHRmlDYWKcWsxKM5++mWOtD6+aWOI3Gi8\nLbQtFj9AdMsq/xHh5FLWQ9Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-919@videolabeling-370619.iam.gserviceaccount.com",
+  "client_id": "114263468866039964792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-919%40videolabeling-370619.iam.gserviceaccount.com"
+}
